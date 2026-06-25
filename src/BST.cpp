@@ -2,7 +2,7 @@
 #include <fstream>
 #include <algorithm>
 #include <string>
-#include "BST.h"
+#include "../include/BST.h"
 
 
 using namespace std;

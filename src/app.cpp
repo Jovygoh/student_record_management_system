@@ -3,8 +3,8 @@
 #include	<cstdlib>
 #include	<cstdio>
 #include	<ctime>
-#include	"BST.h"
-#include    "Student.h"
+#include	"../include/BST.h"
+#include    "../include/Student.h"
 
 using namespace std;
 

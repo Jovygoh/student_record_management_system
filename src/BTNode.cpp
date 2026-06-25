@@ -1,5 +1,5 @@
 #include <iostream>
-#include "BTNode.h"
+#include "../include/BTNode.h"
 
 using namespace std;
 
