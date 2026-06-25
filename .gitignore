@@ -31,9 +31,6 @@
 *.out
 *.app
 
-# PDFs (exlcuded as per previous instructions)
-*.pdf
-
 # IDEs and editors
 .vscode/
 .idea/
